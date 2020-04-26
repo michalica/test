@@ -1,10 +1,10 @@
 {
   "name": "hey",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "hi": "^2.0.0"
+    "hi": "^2.0.1"
   },
   "scripts": {
     "test": "echo"
